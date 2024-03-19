@@ -3,18 +3,18 @@ clock = pygame.time.Clock()
 pygame.init()
 screen = pygame.display.set_mode((1200,845)) # flags = pygame.NOFRAME - убрать рамку у окна
 pygame.display.set_caption('#') # задать название для окна
-background = pygame.image.load('images/background/background.png') # задаем задний фон
+background = pygame.image.load('background/background.png') # задаем задний фон
 
-walk_right = [pygame.image.load('images/hero/hero_go_right/Run__000.png'), # все картинки для анимации героя(идет вправо)
-pygame.image.load('images/hero/hero_go_right/Run__001.png'),
-pygame.image.load('images/hero/hero_go_right/Run__002.png'),
-pygame.image.load('images/hero/hero_go_right/Run__003.png'),
-pygame.image.load('images/hero/hero_go_right/Run__004.png'),
-pygame.image.load('images/hero/hero_go_right/Run__005.png'),
-pygame.image.load('images/hero/hero_go_right/Run__006.png'),
-pygame.image.load('images/hero/hero_go_right/Run__007.png'),
-pygame.image.load('images/hero/hero_go_right/Run__008.png'),
-pygame.image.load('images/hero/hero_go_right/Run__009.png'),
+walk_right = [pygame.image.load('hero/hero_go_right/Run__000.png'), # все картинки для анимации героя(идет вправо)
+pygame.image.load('hero/hero_go_right/Run__001.png'),
+pygame.image.load('hero/hero_go_right/Run__002.png'),
+pygame.image.load('hero/hero_go_right/Run__003.png'),
+pygame.image.load('hero/hero_go_right/Run__004.png'),
+pygame.image.load('hero/hero_go_right/Run__005.png'),
+pygame.image.load('hero/hero_go_right/Run__006.png'),
+pygame.image.load('hero/hero_go_right/Run__007.png'),
+pygame.image.load('hero/hero_go_right/Run__008.png'),
+pygame.image.load('hero/hero_go_right/Run__009.png'),
 ]
 walk_right_count = 0 # счетчик картинок
 bg_x = 0 # начальное положение заднего фона по х
