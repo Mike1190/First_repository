@@ -1,0 +1,27 @@
+Index: Nikita_testing/Nikita_test.py
+===================================================================
+diff --git a/Nikita_testing/Nikita_test.py b/Nikita_testing/Nikita_test.py
+deleted file mode 100644
+--- a/Nikita_testing/Nikita_test.py	(revision 4cad467902cb89ddfa7781e404db31185f178746)
++++ /dev/null	(revision 4cad467902cb89ddfa7781e404db31185f178746)
+@@ -1,19 +0,0 @@
+-import pygame
+-
+-pygame.init()
+-
+-screen = pygame.display.set_mode((1200, 600))
+-
+-pygame.display.set_caption("netonuya")
+-icon = pygame.image.load('Nikita_testing/nikita_icon.png')
+-pygame.display.set_icon(icon)
+-
+-game_running = True
+-while game_running:
+-
+-    pygame.display.update()
+-
+-    for event in pygame.event.get():
+-        if event.type == pygame.QUIT:
+-            game_running = False
+-            pygame.quit()
+\ No newline at end of file

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc87f11a-30eb-4853-a213-7057450ad3b8" name="Changes" comment="Nikita" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2dhT36xQb0lovlL4Gb2vxFPPvJB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Python/git_projects/Misha_rep/First_repository/hero/hero_go_right",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\git_projects\Misha_rep\First_repository\hero\hero_go_right" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\git_projects\Misha_rep\First_repository\hero" />
+      <recent name="D:\Python\git_projects\Misha_rep\First_repository\hero\Actions\Death" />
+      <recent name="D:\Python\git_projects\Misha_rep\First_repository\hero\Actions\Attack" />
+      <recent name="D:\Python\git_projects\Misha_rep\First_repository\hero\Movement\Jump" />
+      <recent name="D:\Python\git_projects\Misha_rep\First_repository\hero\Movement\Slide" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Pygame" type="PythonConfigurationType" factoryName="Python">
+      <module name="First_repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Python\git_projects\Misha_rep\First_repository\Nikita_testing\Nikita_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc87f11a-30eb-4853-a213-7057450ad3b8" name="Changes" comment="" />
+      <created>1710459113436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710459113436</updated>
+    </task>
+    <task id="LOCAL-00001" summary="?">
+      <option name="closed" value="true" />
+      <created>1710793565357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710793565357</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Могу тут оставить или мне надо не в main тестить? Не понял что это и как изменить">
+      <option name="closed" value="true" />
+      <created>1710801564802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710801564802</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Могу тут оставить или мне надо не в main тестить? Не понял что это и как изменить">
+      <option name="closed" value="true" />
+      <created>1710801650565</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710801650565</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Nikita">
+      <option name="closed" value="true" />
+      <created>1711405373646</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711405373646</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="?" />
+    <MESSAGE value="Могу тут оставить или мне надо не в main тестить? Не понял что это и как изменить" />
+    <MESSAGE value="Nikita" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nikita" />
+  </component>
+</project>
