@@ -5,7 +5,7 @@ W, H = 1200, 840
 screen = pygame.display.set_mode((W, H))  # flags = pygame.NOFRAME - убрать рамку у окна
 clock = pygame.time.Clock()
 fps = 60
-hero = Object(30,700,3,'hero/hero_go_right/Run__000.png')
+hero = Object(30,700,3,'hero/Movement/Run_right/Run__000.png')
 # pygame.display.set_caption('#') # задать название для окна
 background = pygame.image.load('background/Background.png')
 while True:
