@@ -59,4 +59,5 @@ while True:
     clock.tick(fps)
     # screen.blit(background,(bg_x,0))
     # screen.blit(background, (bg_x+1200, 0)) # здесь мы циклически ставим один задний фон за другим
+    #
 
