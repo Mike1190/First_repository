@@ -49,7 +49,7 @@ while True:
         hero.jump = True #1
         jump_sound.play()
         if hero.on_ground:
-            hero.dy-=20
+            hero.dy -= 20
             hero.on_ground = False  #0
     if key[pygame.K_s]:
         slip_sound.play()
