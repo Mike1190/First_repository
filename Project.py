@@ -1,6 +1,15 @@
 import pygame
 from object import Object
 pygame.init()
+
+pygame.mixer.music.load("sounds/background.mp3")
+pygame.mixer.music.play(-1)
+pygame.mixer.music.set_volume(0.2)
+
+jump_sound = pygame.mixer.Sound("sounds/jump.wav")
+footsteps_sound = pygame.mixer.Sound("sounds/footsteps.wav")
+slip_sound = pygame.mixer.Sound("sounds/slip.mp3")
+
 W, H = 1200, 840
 screen = pygame.display.set_mode((W, H))  # flags = pygame.NOFRAME - убрать рамку у окна
 clock = pygame.time.Clock()
@@ -25,6 +34,7 @@ while True:
             hero.right = False
     key = pygame.key.get_pressed()
     if key[pygame.K_d]:
+        # footsteps_sound.play()
         hero.rect.x +=1
         hero.walk = True    #1
         hero.right = True   #1
@@ -36,12 +46,13 @@ while True:
 
         bg_x += 2
     if key[pygame.K_w]:
-
-        hero.jump = True    #1
+        hero.jump = True #1
+        jump_sound.play()
         if hero.on_ground:
             hero.dy-=20
             hero.on_ground = False  #0
     if key[pygame.K_s]:
+        slip_sound.play()
         hero.slide = True
         hero.rect.x += 5
 
